@@ -1,4 +1,3 @@
-# SpringBoot-PostgreSQL
 <h1>HOME PAGE</h1>
 <img src="https://user-images.githubusercontent.com/85386114/198249454-7f4cd8c8-a320-4d41-9350-cae5af449d14.jpeg">
 <h1>PROJECT PAGE</h1>
